@@ -34,3 +34,9 @@ Visualize the analyzed data using the provided visualization component. Customiz
 
 Contribution
 Contributions to the Big Data pipeline for ADAS are welcome. If you have any ideas, bug fixes, or enhancements, please submit them as issues or pull requests on the GitHub repository. Follow the contribution guidelines and coding standards defined in the repository to ensure smooth collaboration.
+
+License
+The Big Data pipeline for ADAS is released under the MIT License. Make sure to review the license terms and conditions before using or modifying the codebase.
+
+
+
